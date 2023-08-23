@@ -30,7 +30,7 @@ async function callChatGPT(prompt) {
     console.log('Promptar OpenAI API...');
 
     // API Nyckel + URL
-    const apiKey = 'skriv din API nyckel här';
+    const apiKey = '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';
     const apiUrl = 'https://api.openai.com/v1/chat/completions';
   
     const headers = {
